@@ -25,9 +25,9 @@
 <br>
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">✨ I'm Sunbean Park ✨</p>
-<p align="center">I’m a student at Hanyang University.</p>
-<p align="center">I’m currently learning software developing and cyber security!!</p>
+<h3 align="center">✨ I'm Sunbean Park ✨</h3>
+<h5 align="center">I’m a student at Hanyang University.</h5>
+<h5 align="center">I’m currently learning software developing and cyber security!!</h5>
 
 
 <br>
@@ -65,6 +65,7 @@
 <br>
 
 <!-- [![Sunbean's github stats](https://github-readme-stats.vercel.app/api?username=whaleflyingsky&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaleflyingsky&layout=compact&theme=vision-friendly-dark&langs_count=3"/>
