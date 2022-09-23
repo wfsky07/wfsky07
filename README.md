@@ -22,6 +22,16 @@
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
+<br>
+
+<h3 align="center">Hi there 👋</h3>
+<p align="center">✨ I'm Sunbean Park ✨</p>
+<p align="center">I’m a student at Hanyang University.</p>
+<p align="center">I’m currently learning software developing and cyber security!!</p>
+
+
+<br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -41,7 +51,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AbletonLive-000000?style=flat-square&logo=AbletonLive&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
@@ -54,3 +64,8 @@
 </p>
 <br>
 
+<!-- [![Sunbean's github stats](https://github-readme-stats.vercel.app/api?username=whaleflyingsky&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaleflyingsky&layout=compact&theme=vision-friendly-dark&langs_count=3"/>
+</p> -->
