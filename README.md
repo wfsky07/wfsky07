@@ -1,36 +1,19 @@
-<!--
-### Hi there 👋
-
-
-✨ I'm Sunbean Park ✨   
-   
-- 🔭 I’m currently working on Hanyang University.
-- 🌱 I’m currently learning software developing and cyber security!!
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=75c7ea&height=300&section=header&text=Sunbean%20Park&fontSize=85&animation=twinkling)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=75c7ea&height=280&section=header&text=Sunbean's%20Github%20🐳&fontSize=80&animation=twinkling" />
+</p>
 
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
-<br>
+<br><br>
 
 <h3 align="center">Hi there 👋</h3>
 <h3 align="center">✨ I'm Sunbean Park ✨</h3>
-<h5 align="center">I’m a student at Hanyang University.</h5>
-<h5 align="center">I’m currently learning software developing and cyber security!!</h5>
+<h4 align="center">I’m a student in Department of Military Information Engineering at Hanyang Univ.</h4>
+<h4 align="center">I’m currently learning software developing and cyber security!!</h4>
 
 
-<br>
+<br><br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -52,9 +35,10 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
+<br><br>
 
 <h3 align="center"> 🐋 Me 🐋 </h3>
 <p align="center">
@@ -62,11 +46,9 @@
   <a href="mailto:sunbeanp@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sunbeanp@naver.com"/></a>
   <a href="https://github.com/whaleflyingsky/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
-<br>
-
-<!-- [![Sunbean's github stats](https://github-readme-stats.vercel.app/api?username=whaleflyingsky&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaleflyingsky&layout=compact&theme=vision-friendly-dark&langs_count=3"/>
-</p> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaleflyingsky&layout=compact&theme=vision-friendly-dark"/>
+</p>
