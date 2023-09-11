@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,29&height=270&section=header&text=whaleflyingsky🐳&fontSize=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=270&section=header&text=whaleflyingsky🐳&fontSize=70&animation=twinkling" />
 </p>
 
 <p align="right">
@@ -35,7 +35,7 @@
 <br>
 
 <h2>🖥️ Technologies and Tools</h2>
-<p>Techs that I've used at least once..</p>
+<p>Techs that I've used at least once...</p>
 <table>
   <tr>
     <td valign="top">
