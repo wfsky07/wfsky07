@@ -85,8 +85,8 @@
       <img
         src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
       />
-      <img 
-        src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"
+       <img 
+        src="https://img.shields.io/badge/Shell Script-000000?style=flat-square&logo=gnu-bash&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"
