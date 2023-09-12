@@ -1,23 +1,23 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=270&section=header&text=whaleflyingsky🐳&fontSize=70&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=270&section=header&text=whaleflyingsky🐳&fontSize=70&animation=twinkling" />
 </p>
 
 <p align="right">
    <a href="https://github.com/whaleflyingsky" 
     ><img
-      src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=esri&logoColor=white&color=78B9C2"
+      src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=esri&logoColor=white&color=C0BAD2"
   /></a>
   <a href="https://linkedin.com/in" 
     ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=74AFC2"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=B5C2DA"
   /></a>
   <a href="https://www.instagram.com/ssunny_bean_.v/" 
     ><img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=6FA2C1"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=A8CEE4"
   /></a>
   <a href="mailto:sunbeanp@naver.com" 
     ><img
-      src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=6D99C1&link=sunbeanp@naver.com"
+      src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9CD5EB&link=sunbeanp@naver.com"
   /></a>
 </p>
 
