@@ -27,7 +27,7 @@
 <p>
   Welcome to my GitHub page!
   
-  I'm Sunbean, a developer who loves **building websites**. I’m majoring in *Military Information Engineering* and *Computer science*. Coming up with fresh and creative ideas gets me super excited!
+  I'm a developer who loves **building creative websites**. I’m currently studing *Defense Information Engineering* and *Computer science*. Coming up with fresh and creative ideas gets me super excited!
   
   Let's **connect, collaborate, and create** amazing experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
 </p>
@@ -54,6 +54,9 @@
       />
       <img
         src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"
+      />
+      <img
+        src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white"
       />
       <img
         src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactQuery&logoColor=white"
@@ -155,5 +158,5 @@
 <br><br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whaleflyingsky&layout=compact&theme=vision-friendly-dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfsky07&layout=compact&theme=vision-friendly-dark"/>
 </p>
