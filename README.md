@@ -7,7 +7,7 @@
     ><img
       src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=esri&logoColor=white&color=C0BAD2"
   /></a>
-  <a href="www.linkedin.com/in/sunbean-park-13b406236" 
+  <a href="www.linkedin.com/sunbean-park-13b406236" 
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=B5C2DA"
   /></a>
