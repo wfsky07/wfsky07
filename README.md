@@ -7,17 +7,13 @@
     ><img
       src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=esri&logoColor=white&color=C0BAD2"
   /></a>
-  <a href="https://www.linkedin.com/in/sunbean-park-13b406236" 
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=B5C2DA"
-  /></a>
-  <a href="https://www.instagram.com/ssunny_bean_.v/" 
+  <a href="https://www.instagram.com/" 
     ><img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&color=A8CEE4"
   /></a>
-  <a href="mailto:sunbeanp@naver.com" 
+  <a href="mailto:@naver.com" 
     ><img
-      src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9CD5EB&link=sunbeanp@naver.com"
+      src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9CD5EB&link=@naver.com"
   /></a>
 </p>
 
@@ -27,7 +23,7 @@
 <p>
   Welcome to my GitHub page!
   
-  I'm a developer who loves **building creative websites**. I’m currently studing *Defense Information Engineering* and *Computer science*. Coming up with fresh and creative ideas gets me super excited!
+  I'm a developer who loves **building creative websites**. I’m currently studing *Computer science*. Coming up with fresh and creative ideas gets me super excited!
   
   Let's **connect, collaborate, and create** amazing experiences that make a positive impact. If you're interested, let's team up and dive into this adventure together. 💎
 </p>
