@@ -15,6 +15,10 @@
     ><img
       src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=9CD5EB&link=@naver.com"
   /></a>
+   <a href="https://www.linkedin.com/in/선빈-박-889b77363" 
+    ><img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=B5C2DA"
+  /></a>
 </p>
 
 <br>
